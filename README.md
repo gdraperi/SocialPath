@@ -32,7 +32,7 @@ python3 manage.py runserver
 ```
 After that SocialPath will be accessible at localhost:8000/search
 
-Paste your API keys into [backend/keys.json](https://github.com/woj-ciech/SocialPath/blob/master/backend/keys.json) Remember to escape double quotes (") in instagram cookie with "\"
+Paste your API keys into [backend/keys.json](https://github.com/woj-ciech/SocialPath/blob/master/backend/keys.json) Remember to escape double quotes (") in instagram cookie with \ in json
 
 Change your timezone at [socialpath/settings.py](https://github.com/woj-ciech/SocialPath/blob/master/socialpath/settings.py#L116). It's important for scheduled background tasks.
 
