@@ -1,6 +1,8 @@
 # SocialPath
 ![](https://imgur.com/daYzPlO.jpg)
 
+Write-up https://medium.com/@woj_ciech/socialpath-track-users-across-social-media-platforms-ed5226c8ee8c
+
 Track users across social media platforms
 
 Supported services:
